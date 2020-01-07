@@ -1,2 +1,2 @@
-# Stocks-Risk-Returns-SharpeRatio
- Sharpe Ratio: Risk and Returns of Stocks vs Benchmark
+# Sharpe Ratio: Risk and Returns of Stocks vs Benchmark
+## Daily Prices Datasets: Amazon, Facebook, S&P500
